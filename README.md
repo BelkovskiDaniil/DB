@@ -1,3 +1,9 @@
+# Вспомогательные файлы
+
+[Ссылка на схему в Lucidchart](https://lucid.app/lucidchart/b3550436-ae48-4727-8a00-f6c06a66d13f/edit?viewport_loc=-2139%2C-869%2C3195%2C1357%2C0_0&invitationId=inv_586a7a3d-c61e-40ca-8d48-8a1e37e6dc15)
+
+[Ограничения полей](https://docs.google.com/document/d/1elhATyTcNRyXTrb4_ca8rJcRsudPJfbc9631PelvNL0/edit?usp=sharing)
+
 # Структура базы данных
 
 ## Таблица: Specials
